@@ -1,5 +1,9 @@
 # Auto clicker
 
+## Using
+
+Use it by pressing CapsLk + rB
+
 ## Linux install
 ```
 # gcc
