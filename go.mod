@@ -1,4 +1,4 @@
-module clier
+module clicker
 
 go 1.19
 
